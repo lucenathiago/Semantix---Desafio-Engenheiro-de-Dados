@@ -17,7 +17,7 @@ O meu objetivo consistia em usar o Spark SQL para encontrar as respostas. Porém
 
 - É indicado, para uma melhor visualização, abrir o arquivo **"Semantix - Desafio Engenheiro de Dados.ipynb"** diretamente no Jupyter notebook pois o mesmo contém formatação HTML.
 
- - Para a execução do código, é necessário que todos os arquivos listados a seguir estejam no mesmo diretório:
+ - Para a execução do código, é necessário que todos os arquivos listados a seguir estejam no mesmo diretório: <br/>
 Semantix - Desafio Engenheiro de Dados.ipynb <br/>
 access_log_Jul95.csv <br/>
 access_log_Aug95.csv <br/>
