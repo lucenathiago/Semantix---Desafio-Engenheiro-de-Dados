@@ -13,6 +13,23 @@ O arquivo de entrega, assim como o desafio, está dividido em duas partes sendo,
 O meu objetivo consistia em usar o Spark SQL para encontrar as respostas. Porém me deparei com o erro "Py4JJavaError" após criar uma Tabela Temporária no Spark, e não consegui resolvê-lo.
 
 
+### INDICAÇÕES:
+
+- É indicado, para uma melhor visualização, abrir o arquivo **"Semantix - Desafio Engenheiro de Dados.ipynb"** diretamente no Jupyter notebook pois o mesmo contém formatação HTML.
+
+ - Para a execução do código, é necessário que todos os arquivos listados a seguir estejam no mesmo diretório:
+Semantix - Desafio Engenheiro de Dados.ipynb
+access_log_Jul95.csv
+access_log_Aug95.csv
+
+
+### AMBIENTE DE DESENVOLVIMENTO:
+Ubuntu 18.04 LTS
+Anaconda 5.1.0
+Python 3.6.4
+Spark 2.2.0
+
+
 ### REFERÊNCIAS:
 
 https://www.datascienceacademy.com.br/
