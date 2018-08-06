@@ -9,6 +9,7 @@ A entrega está consistida no arquivo **"Semantix - Desafio Engenheiro de Dados.
 O arquivo de entrega, assim como o desafio, está dividido em duas partes sendo, a primeira Teórica e a segunda Prática.
 
 - Consegui responder a todas a questões pertinentes à parte Teórica.
+
 - Infelizmente não consegui terminar a parte Prática em tempo hábil para esta entrega. Ficando as questões por serem respondidas.
 O meu objetivo consistia em usar o Spark SQL para encontrar as respostas. Porém me deparei com o erro "Py4JJavaError" após criar uma Tabela Temporária no Spark, e não consegui resolvê-lo.
 
