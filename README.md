@@ -1,7 +1,7 @@
 # Semantix - Desafio Engenheiro de Dados
 Repositório criado para entrega formal do Desafio Engenheiro de Dados da Semantix
-
  <br/>
+
 ### VISÃO GERAL:
 
 A entrega está consistida no arquivo **"Semantix - Desafio Engenheiro de Dados.ipynb"** desenvolvido no Jupyter Notebook utilizando Pyspark e Spark SQL.
