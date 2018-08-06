@@ -35,4 +35,5 @@ Spark 2.2.0 <br/>
 ### REFERÊNCIAS:
 
 https://www.datascienceacademy.com.br/ <br/>
+ <br/>
 https://databricks.gitbooks.io/databricks-spark-knowledge-base/content/best_practices/prefer_reducebykey_over_groupbykey.html
