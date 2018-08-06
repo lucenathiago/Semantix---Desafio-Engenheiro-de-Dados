@@ -24,10 +24,10 @@ access_log_Aug95.csv
 
 
 ### AMBIENTE DE DESENVOLVIMENTO:
-Ubuntu 18.04 LTS
-Anaconda 5.1.0
-Python 3.6.4
-Spark 2.2.0
+Ubuntu 18.04 LTS;
+Anaconda 5.1.0;
+Python 3.6.4;
+Spark 2.2.0;
 
 
 
