@@ -4,7 +4,7 @@ Repositório criado para entrega formal do Desafio Engenheiro de Dados da Semant
 
 ### VISÃO GERAL:
 
-A entrega está consistida no arquivo "Semantix - Desafio Engenheiro de Dados.ipynb" desenvolvido no Jupyter Notebook utilizando Pyspark e Spark SQL.
+A entrega está consistida no arquivo **"Semantix - Desafio Engenheiro de Dados.ipynb"** desenvolvido no Jupyter Notebook utilizando Pyspark e Spark SQL.
 
 O arquivo de entrega, assim como o desafio, está dividido em duas partes sendo, a primeira Teórica e a segunda Prática.
 
