@@ -18,17 +18,17 @@ O meu objetivo consistia em usar o Spark SQL para encontrar as respostas. Porém
 - É indicado, para uma melhor visualização, abrir o arquivo **"Semantix - Desafio Engenheiro de Dados.ipynb"** diretamente no Jupyter notebook pois o mesmo contém formatação HTML.
 
  - Para a execução do código, é necessário que todos os arquivos listados a seguir estejam no mesmo diretório:
-Semantix - Desafio Engenheiro de Dados.ipynb
-access_log_Jul95.csv
-access_log_Aug95.csv
+Semantix - Desafio Engenheiro de Dados.ipynb <br/>
+access_log_Jul95.csv <br/>
+access_log_Aug95.csv <br/>
 
 
 ### AMBIENTE DE DESENVOLVIMENTO:
 
-Ubuntu 18.04 LTS<br />
-Anaconda 5.1.0_
-Python 3.6.4
-Spark 2.2.0
+Ubuntu 18.04 LTS <br/>
+Anaconda 5.1.0 <br/>
+Python 3.6.4 <br/>
+Spark 2.2.0 <br/>
 
 
 
