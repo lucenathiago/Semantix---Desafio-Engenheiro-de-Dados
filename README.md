@@ -9,7 +9,7 @@ A entrega está consistida no arquivo **"Semantix - Desafio Engenheiro de Dados.
 O arquivo de entrega, assim como o arquivo de enunciado do desafio, está dividido em duas partes sendo, a primeira Teórica e a segunda Prática.
 
 
-### INDICAÇÕES:
+### RECOMENDAÇÕES:
 
 - Para uma melhor visualização, abrir o arquivo **"Semantix - Desafio Engenheiro de Dados.ipynb"** diretamente no Jupyter notebook pois o mesmo contém formatação HTML, que pode ser omitida ao abri-lo em qualquer outra ferramenta.
 
